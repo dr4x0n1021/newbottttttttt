@@ -26,7 +26,7 @@ Bu bot Telegram guruhlarida reklama xabarlarini aniqlash, ularni ogohlantirish v
    ```
 4. `.env.example` faylini `.env` deb nomlang va ichiga bot tokeningizni kiriting:
    ```
-   BOT_TOKEN=8103236910:AAGS4YR_YGEfK3__VDCzYFPPYN1taN5a3rs
+   BOT_TOKEN=example
    ```
 5. Botni ishga tushiring:
    ```bash
